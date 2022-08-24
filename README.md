@@ -1,14 +1,14 @@
-**DataScience Enthusiast :)**
+**DataScience Enthusiast :)**:smile:
 Piyush Kumar Singh (BTech- Coumpter Science) 
 Masters - Data Science and Business Analytics 
-Linkdin: [PiyushLinkdin](https://www.linkedin.com/in/piyushkrsingh89/)
+LinkedIn: [MyProfile](https://www.linkedin.com/in/piyushkrsingh89/)
 
--Proficient in predictive modelling, machine-learning and deep-learning algorithms.
--Data enthusiast skilled in EDA, data visualization, data processing, data mining.
--Adept in solving analytical challenges with business impact.
--Able to work well with diverse groups with excellent written and verbal communication.
+- Proficient in predictive modelling, machine-learning and deep-learning algorithms.
+- Data enthusiast skilled in EDA, data visualization, data processing, data mining.
+- Adept in solving analytical challenges with business impact.
+- Able to work well with diverse groups with excellent written and verbal communication.
 
-Some project that i worked on including EDA and various machine learning models and techniques.
+**Some project that i worked on including EDA and various machine learning models and techniques.**
 
 Model Performance Project – Performed 1-Way ANOVA and 2-Way ANOVA on dataset of salaries of various individuals to analyse the dependency with respect to salary with different variables in dataset. Testing multiple ML algorithms and accessing performance of each model, hyper parameter tuning of each model to select the best model for production dataset prediction analysis. 
 
