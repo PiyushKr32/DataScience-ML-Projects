@@ -1,6 +1,7 @@
 **DataScience Enthusiast :)**
 Piyush Kumar Singh (BTech- Coumpter Science) 
 Masters - Data Science and Business Analytics 
+Linkdin: [PiyushLinkdin](https://www.linkedin.com/in/piyushkrsingh89/)
 
 -Proficient in predictive modelling, machine-learning and deep-learning algorithms.
 -Data enthusiast skilled in EDA, data visualization, data processing, data mining.
