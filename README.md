@@ -1,14 +1,13 @@
 **Data Science Enthusiast :)**:smile:
 > Piyush Kumar Singh (BTech- Coumpter Science) <br />
 > Masters - Data Science and Business Analytics <br />
-> LinkedIn: [MyProfile](https://www.linkedin.com/in/piyushkrsingh89/) <br />
 
 - Proficient in predictive modelling, machine-learning and deep-learning algorithms.
 - Data enthusiast skilled in EDA, data visualization, data processing, data mining.
 - Adept in solving analytical challenges with business impact.
 - Able to work well with diverse groups with excellent written and verbal communication.
 
-## Some project that i worked on showcasing EDA and various machine learning models and techniques:trophy:
+## Some project showcasing EDA and various machine learning models and techniques:trophy:
 
 :1st_place_medal:**Statistical & Probabilistic Analysis of Store Sales, University Survey, & Manufacturing data** – The project involved drawing inferences from 3 case studies, namely - Wholesale Customer Data (Store Sales), University Survey Data & Manufacturing Shingles Data. The concepts of various measures of Descriptive Statistics, Probability and Probability Distributions, and various Estimation & Hypothesis Testing measures are used to analyze these case studies.
 
